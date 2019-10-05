@@ -1,4 +1,6 @@
 # PyImageSearch course practice on opencv
+# Code originally by Adrian Rosebrock
+
 import numpy as np
 import argparse
 import cv2
